@@ -138,3 +138,6 @@ With MoE + llama.cpp optimizations, **frontier-level AI is now accessible on dec
 
 **Made with ❤️ for the local LLM community**  
 *Last updated: June 2026*
+
+Note - These were not the final settings. Additional tweaking has to be done with cache bit/threads/lanes/TurboQuant this was a baseline reference based on a YouTube video. Another research paper will be made showing how we accomplished 20 tk/s on a 3GB gtx1060.
+This also required a custom llama.cpp build.
