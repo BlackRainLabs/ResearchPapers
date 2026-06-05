@@ -60,7 +60,7 @@ Welcome to the **MoE-LLM-Research** repository by BlackRainLabs. This collection
 ## 📊 Performance Gallery
 
 **GTX 1060 3GB Results**:
-- **8–20 tokens/sec** at 16K context
+- **20+ tokens/sec** at 16K context
 - VRAM usage consistently **under 2.9GB**
 - Stable long-context conversations
 
