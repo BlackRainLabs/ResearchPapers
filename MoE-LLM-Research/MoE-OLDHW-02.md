@@ -64,7 +64,7 @@ It builds upon the original guide but pushes the limits further with heavier CPU
 
 ## ❗ Important: TurboQuant Build Required
 
-This specificc setup **requires a TurboQuant fork** of llama.cpp for the specialized KV cache types (`turbo2` / `turbo3`) and enhanced MoE handling.
+This specific setup **requires a TurboQuant fork** of llama.cpp for the specialized KV cache types (`turbo2` / `turbo3`) and enhanced MoE handling.
 
 It's also good to make the build specific to your GPU - CUDA
 
