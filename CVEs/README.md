@@ -54,6 +54,6 @@ Each vulnerability directory contains:
 **Black Rain Labs Security Research Division**  
 *Securing the Future, One Vulnerability at a Time*
 
-© 2026 Black Rain Labs | [Contact](mailto:security@blackrainlabs.com)
+© 2026 Black Rain Labs
 
 </div>
